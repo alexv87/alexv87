@@ -3,6 +3,6 @@
 [<img align="left" alt="CSS3" width="48px" src="https://github.com/alexv87/alexv87/blob/main/Icons/css.png" />]
 [<img align="left" alt="JavaScript" width="48px" src="https://github.com/alexv87/alexv87/blob/main/Icons/javascript.png" />]
 [<img align="left" alt="python" width="48px" src="https://github.com/alexv87/alexv87/blob/main/Icons/python.png" />]
-// [<img align="left" alt="Git" width="48px" src="https://github.com/alexv87/alexv87/blob/main/Icons/git.png" />]
-// [<img align="left" alt="GitHub" width="48px" src="https://github.com/alexv87/alexv87/blob/main/Icons/github.png" />]
+[<img align="left" alt="Git" width="48px" src="https://github.com/alexv87/alexv87/blob/main/Icons/git.png" />]
+[<img align="left" alt="GitHub" width="48px" src="https://github.com/alexv87/alexv87/blob/main/Icons/github.png" />]
 
